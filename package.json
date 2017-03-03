@@ -1,0 +1,9 @@
+{
+  "name": "48questions",
+  "version": "1.0.0",
+  "description": "Source code to answer 48 questions about Node.js",
+  "main": "index.js",
+  "repository": "http://github.com/TechMaster/48questions",
+  "author": "Trịnh Minh Cường",
+  "license": "MIT"
+}
